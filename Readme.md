@@ -1,0 +1,1 @@
+This is a simple project on crud operations using NodeJS and mongodb. In this the user can create ,add, update and delete the data.
